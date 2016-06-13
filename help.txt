@@ -1,2 +1,2 @@
 <h1> Help page </h1>
-<h3> GIT </h3>
+Ligne modifé !! 
